@@ -1,4 +1,4 @@
---Boronide™ Obfuscation, v0.6.4
+--Boronide™ Obfuscation, v0.6.4 thx herrt
 
 local S,I,O=nil,nil,nil([[
 
